@@ -30,7 +30,7 @@ public class Circulo {
    }
    
    public double calcularLonxitude(){
-       return pi*2*Math.pow(radio,2);
+       return pi*2*radio;
    }
 }
 
